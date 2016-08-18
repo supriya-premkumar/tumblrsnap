@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/supriya/Documents/CodePath/tumblrsnap-master/app/build/intermediates/res/merged/debug/layout/fragment_photos.xml",
+        "source": "/Users/supriya/Documents/CodePath/tumblrsnap-master/app/src/main/res/layout/fragment_photos.xml"
+    },
+    {
+        "merged": "/Users/supriya/Documents/CodePath/tumblrsnap/app/build/intermediates/res/merged/debug/layout/fragment_photos.xml",
+        "source": "/Users/supriya/Documents/CodePath/tumblrsnap/app/src/main/res/layout/fragment_photos.xml"
+    },
+    {
+        "merged": "/Users/supriya/Documents/CodePath/tumblrsnap-master/app/build/intermediates/res/merged/debug/layout/fragment_login.xml",
+        "source": "/Users/supriya/Documents/CodePath/tumblrsnap-master/app/src/main/res/layout/fragment_login.xml"
+    },
+    {
+        "merged": "/Users/supriya/Documents/CodePath/tumblrsnap/app/build/intermediates/res/merged/debug/layout/action_add_photo.xml",
+        "source": "/Users/supriya/Documents/CodePath/tumblrsnap/app/src/main/res/layout/action_add_photo.xml"
+    },
+    {
+        "merged": "/Users/supriya/Documents/CodePath/tumblrsnap/app/build/intermediates/res/merged/debug/layout/fragment_login.xml",
+        "source": "/Users/supriya/Documents/CodePath/tumblrsnap/app/src/main/res/layout/fragment_login.xml"
+    },
+    {
+        "merged": "/Users/supriya/Documents/CodePath/tumblrsnap-master/app/build/intermediates/res/merged/debug/layout/activity_settings.xml",
+        "source": "/Users/supriya/Documents/CodePath/tumblrsnap-master/app/src/main/res/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/Users/supriya/Documents/CodePath/tumblrsnap-master/app/build/intermediates/res/merged/debug/layout/activity_preview_photo.xml",
+        "source": "/Users/supriya/Documents/CodePath/tumblrsnap-master/app/src/main/res/layout/activity_preview_photo.xml"
+    },
+    {
+        "merged": "/Users/supriya/Documents/CodePath/tumblrsnap/app/build/intermediates/res/merged/debug/layout/photo_item.xml",
+        "source": "/Users/supriya/Documents/CodePath/tumblrsnap/app/src/main/res/layout/photo_item.xml"
+    },
+    {
+        "merged": "/Users/supriya/Documents/CodePath/tumblrsnap/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/supriya/Documents/CodePath/tumblrsnap/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/supriya/Documents/CodePath/tumblrsnap-master/app/build/intermediates/res/merged/debug/layout/photo_item.xml",
+        "source": "/Users/supriya/Documents/CodePath/tumblrsnap-master/app/src/main/res/layout/photo_item.xml"
+    },
+    {
+        "merged": "/Users/supriya/Documents/CodePath/tumblrsnap-master/app/build/intermediates/res/merged/debug/layout/action_add_photo.xml",
+        "source": "/Users/supriya/Documents/CodePath/tumblrsnap-master/app/src/main/res/layout/action_add_photo.xml"
+    },
+    {
+        "merged": "/Users/supriya/Documents/CodePath/tumblrsnap/app/build/intermediates/res/merged/debug/layout/activity_preview_photo.xml",
+        "source": "/Users/supriya/Documents/CodePath/tumblrsnap/app/src/main/res/layout/activity_preview_photo.xml"
+    },
+    {
+        "merged": "/Users/supriya/Documents/CodePath/tumblrsnap/app/build/intermediates/res/merged/debug/layout/activity_settings.xml",
+        "source": "/Users/supriya/Documents/CodePath/tumblrsnap/app/src/main/res/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/Users/supriya/Documents/CodePath/tumblrsnap-master/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/supriya/Documents/CodePath/tumblrsnap-master/app/src/main/res/layout/activity_main.xml"
+    }
+]
